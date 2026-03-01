@@ -3,3 +3,4 @@ Mijn eerste repository. Doel is het leren gebruiken van GitHub. Deze is nog niet
 Wat meer tekst
 nog wat
 
+Tijd om te beginnen aan het groepsproject.
